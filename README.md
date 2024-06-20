@@ -1,1 +1,1 @@
-# web-scraping-rust
+# AP Assembly elections results web scraping using rust
